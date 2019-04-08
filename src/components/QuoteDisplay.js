@@ -6,7 +6,7 @@ import './css/QuoteDisplay.css' // Styling component with external CSS
 class QuoteDisplay extends Component {
 
     // Initialize state of component
-    // In most cases this should be done within a constructor
+    // In most cases this should be done within the constructor
     state = {
       loading: true
     }
